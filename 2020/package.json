@@ -1,0 +1,11 @@
+{
+  "name": "tdf2020",
+  "version": "1.0.0",
+  "description": "Parse 2020 Tour de France data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
