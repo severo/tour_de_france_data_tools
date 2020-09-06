@@ -4,8 +4,16 @@
   "description": "Parse 2020 Tour de France data",
   "main": "index.js",
   "scripts": {
+    "riders": "JSON_DIR=./json/ node src/riders.js",
+    "images": "JSON_DIR=./json/ IMAGES_DIR=./images/ node src/images.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "d3": "^6.1.1",
+    "jsdom": "^16.4.0",
+    "node-fetch": "^2.6.1"
+  }
 }
