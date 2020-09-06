@@ -2,7 +2,17 @@
 
 Parse data from Tour de France 2020.
 
-## Get data
+## Get data
+
+```
+npm install
+npm run riders
+npm run images
+```
+
+## Get stages data
+
+[work in progress]
 
 Download the data from stage 5:
 
