@@ -3,11 +3,11 @@ const { JSDOM } = require("jsdom");
 const { mainColors } = require("./colors");
 
 function forgeUrl(relativeUrl) {
-  return `https://www.letour.fr/${relativeUrl}`;
+  return `https://www.letour.fr${relativeUrl}`;
 }
 
 async function fetchRelativeRiderUrlList() {
-  const startListUrl = forgeUrl("en/riders");
+  const startListUrl = forgeUrl("/en/riders");
   const dom = await JSDOM.fromURL(startListUrl);
   return (riderUrlList = [
     ...dom.window.document.querySelectorAll(".runner__link"),

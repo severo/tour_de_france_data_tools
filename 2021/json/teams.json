@@ -1,0 +1,412 @@
+[
+  {
+    "code": "uad",
+    "longCode": "uae-team-emirates",
+    "name": "UAE TEAM EMIRATES",
+    "jerseyImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/uad/26374/0:0,400:400-300-0-70/9af75",
+    "logoImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/uad/26443/0:0,400:400-300-0-70/2a16d",
+    "relativeTeamUrl": "/en/team/UAD/uae-team-emirates",
+    "colorsLogo": [
+      "#ffffff",
+      "#d6161f",
+      "#15151a"
+    ],
+    "colorsJersey": [
+      "#f4f6f8",
+      "#cc0927",
+      "#151515"
+    ]
+  },
+  {
+    "code": "tjv",
+    "longCode": "jumbo-visma",
+    "name": "JUMBO - VISMA",
+    "jerseyImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/jumbo-visma-tdf-2021-ok/26796/0:0,400:400-300-0-70/0c9c9",
+    "logoImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/tjv/26442/0:0,400:400-300-0-70/3203f",
+    "relativeTeamUrl": "/en/team/TJV/jumbo-visma",
+    "colorsLogo": [
+      "#fcbd00",
+      "#000000",
+      "#fefefe"
+    ],
+    "colorsJersey": [
+      "#757376",
+      "#0d0b0a",
+      "#f8ca0e"
+    ]
+  },
+  {
+    "code": "igd",
+    "longCode": "ineos-grenadiers",
+    "name": "INEOS GRENADIERS",
+    "jerseyImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/igd/26364/0:0,400:400-300-0-70/8784e",
+    "logoImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/igd/26428/0:0,400:400-300-0-70/e4cd1",
+    "relativeTeamUrl": "/en/team/IGD/ineos-grenadiers",
+    "colorsLogo": [
+      "#00132b",
+      "#b41816",
+      "#fdfdfd"
+    ],
+    "colorsJersey": [
+      "#081328",
+      "#b22120",
+      "#4b505d"
+    ]
+  },
+  {
+    "code": "isn",
+    "longCode": "israel-start-up-nation",
+    "name": "ISRAEL START-UP NATION",
+    "jerseyImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/isn/26365/0:0,400:400-300-0-70/1bebf",
+    "logoImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/isn/26429/0:0,400:400-300-0-70/21ec7",
+    "relativeTeamUrl": "/en/team/ISN/israel-start-up-nation",
+    "colorsLogo": [
+      "#ffffff",
+      "#1f59a9",
+      "#00a2df"
+    ],
+    "colorsJersey": [
+      "#fcfcfc",
+      "#012458",
+      "#0388c4"
+    ]
+  },
+  {
+    "code": "tfs",
+    "longCode": "trek-segafredo",
+    "name": "TREK - SEGAFREDO",
+    "jerseyImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/tfs/26371/0:0,400:400-300-0-70/41418",
+    "logoImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/tfs/26439/0:0,400:400-300-0-70/4e00f",
+    "relativeTeamUrl": "/en/team/TFS/trek-segafredo",
+    "colorsLogo": [
+      "#002c49",
+      "#fefefd",
+      "#647a89"
+    ],
+    "colorsJersey": [
+      "#e7e6e6",
+      "#1d3a56",
+      "#dd1f22"
+    ]
+  },
+  {
+    "code": "dqt",
+    "longCode": "deceuninck-quick-step",
+    "name": "DECEUNINCK - QUICK - STEP",
+    "jerseyImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/dqt/26360/0:0,400:400-300-0-70/7b2ef",
+    "logoImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/dqt/26426/0:0,400:400-300-0-70/ed916",
+    "relativeTeamUrl": "/en/team/DQT/deceuninck-quick-step",
+    "colorsLogo": [
+      "#ffffff",
+      "#1d3e86",
+      "#758ab5"
+    ],
+    "colorsJersey": [
+      "#072157",
+      "#2e5ea5",
+      "#fcfdfc"
+    ]
+  },
+  {
+    "code": "mov",
+    "longCode": "movistar-team",
+    "name": "MOVISTAR TEAM",
+    "jerseyImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/movistar-special-tdf-embargo-jusqu-au-depart-du-tdf-2021-tdf-ok/28771/0:0,400:400-300-0-70/894af",
+    "logoImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/mov/26436/0:0,400:400-300-0-70/5d626",
+    "relativeTeamUrl": "/en/team/MOV/movistar-team",
+    "colorsLogo": [
+      "#ffffff",
+      "#0098d4",
+      "#094275"
+    ],
+    "colorsJersey": [
+      "#0f84c0",
+      "#043a5d",
+      "#e5e5e5"
+    ]
+  },
+  {
+    "code": "boh",
+    "longCode": "bora-hansgrohe",
+    "name": "BORA - HANSGROHE",
+    "jerseyImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/bora-hansgrohe-2021-tdf-ok/28770/0:0,400:400-300-0-70/d2e8d",
+    "logoImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/boh/26432/0:0,400:400-300-0-70/12789",
+    "relativeTeamUrl": "/en/team/BOH/bora-hansgrohe",
+    "colorsLogo": [
+      "#000000",
+      "#009c82",
+      "#ffffff"
+    ],
+    "colorsJersey": [
+      "#012210",
+      "#f7f7f8",
+      "#078857"
+    ]
+  },
+  {
+    "code": "gfc",
+    "longCode": "groupama-fdj",
+    "name": "GROUPAMA - FDJ",
+    "jerseyImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/gfc/26363/0:0,400:400-300-0-70/83d53",
+    "logoImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/gfc/26430/0:0,400:400-300-0-70/c27d7",
+    "relativeTeamUrl": "/en/team/GFC/groupama-fdj",
+    "colorsLogo": [
+      "#ffffff",
+      "#2951a1",
+      "#eb3658"
+    ],
+    "colorsJersey": [
+      "#e5e6e9",
+      "#00599c",
+      "#e9393e"
+    ]
+  },
+  {
+    "code": "cof",
+    "longCode": "cofidis",
+    "name": "COFIDIS",
+    "jerseyImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/cof/26359/0:0,400:400-300-0-70/de8d9",
+    "logoImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/cofidis/27746/0:0,400:400-300-0-70/39982",
+    "relativeTeamUrl": "/en/team/COF/cofidis",
+    "colorsLogo": [
+      "#cf1039",
+      "#fecf00",
+      "#ec7cad"
+    ],
+    "colorsJersey": [
+      "#e8e8e8",
+      "#d20926",
+      "#f6ce0e"
+    ]
+  },
+  {
+    "code": "afc",
+    "longCode": "alpecin-fenix",
+    "name": "ALPECIN - FENIX",
+    "jerseyImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/alpecin-fenix-tdf-2021/28874/0:0,400:400-300-0-70/a3a4c",
+    "logoImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/afc/26421/0:0,400:400-300-0-70/50b13",
+    "relativeTeamUrl": "/en/team/AFC/alpecin-fenix",
+    "colorsLogo": [
+      "#221d37",
+      "#c71430",
+      "#fefefe"
+    ],
+    "colorsJersey": [
+      "#202b59",
+      "#c5072e",
+      "#eceeef"
+    ]
+  },
+  {
+    "code": "efn",
+    "longCode": "ef-education-nippo",
+    "name": "EF EDUCATION - NIPPO",
+    "jerseyImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/efn/26362/0:0,400:400-300-0-70/6657e",
+    "logoImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/efn/26427/0:0,400:400-300-0-70/4b206",
+    "relativeTeamUrl": "/en/team/EFN/ef-education-nippo",
+    "colorsLogo": [
+      "#ffffff",
+      "#000000",
+      "#545454"
+    ],
+    "colorsJersey": [
+      "#e83386",
+      "#232446",
+      "#93033e"
+    ]
+  },
+  {
+    "code": "act",
+    "longCode": "ag2r-citroen-team",
+    "name": "AG2R CITROEN TEAM",
+    "jerseyImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/act/26352/0:0,400:400-300-0-70/49cc0",
+    "logoImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/act/26444/0:0,400:400-300-0-70/d0597",
+    "relativeTeamUrl": "/en/team/ACT/ag2r-citroen-team",
+    "colorsLogo": [
+      "#fefefe",
+      "#371908",
+      "#d00917"
+    ],
+    "colorsJersey": [
+      "#ebeaea",
+      "#d40404",
+      "#4f280e"
+    ]
+  },
+  {
+    "code": "ark",
+    "longCode": "team-arkea-samsic",
+    "name": "TEAM ARKEA - SAMSIC",
+    "jerseyImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/ark/26354/0:0,400:400-300-0-70/0e4c1",
+    "logoImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/ark/26423/0:0,400:400-300-0-70/800e8",
+    "relativeTeamUrl": "/en/team/ARK/team-arkea-samsic",
+    "colorsLogo": [
+      "#ffffff",
+      "#e2292c",
+      "#000000"
+    ],
+    "colorsJersey": [
+      "#1d0000",
+      "#f30f13",
+      "#7f0304"
+    ]
+  },
+  {
+    "code": "dsm",
+    "longCode": "team-dsm",
+    "name": "TEAM DSM",
+    "jerseyImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/dsm/26361/0:0,400:400-300-0-70/011a0",
+    "logoImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/dsm/26431/0:0,400:400-300-0-70/bc184",
+    "relativeTeamUrl": "/en/team/DSM/team-dsm",
+    "colorsLogo": [
+      "#ffffff",
+      "#154193",
+      "#54c6f2"
+    ],
+    "colorsJersey": [
+      "#000201",
+      "#24b1e3",
+      "#fbfbfc"
+    ]
+  },
+  {
+    "code": "lts",
+    "longCode": "lotto-soudal",
+    "name": "LOTTO SOUDAL",
+    "jerseyImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/lts/26367/0:0,400:400-300-0-70/4114c",
+    "logoImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/lts/26437/0:0,400:400-300-0-70/26cbc",
+    "relativeTeamUrl": "/en/team/LTS/lotto-soudal",
+    "colorsLogo": [
+      "#ffffff",
+      "#e32d27",
+      "#1e1b1c"
+    ],
+    "colorsJersey": [
+      "#080502",
+      "#df0202",
+      "#f7f7f7"
+    ]
+  },
+  {
+    "code": "tbv",
+    "longCode": "bahrain-victorious",
+    "name": "BAHRAIN VICTORIOUS",
+    "jerseyImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/bahrain-victorious-2021-ok/26797/0:0,400:400-300-0-70/6d69c",
+    "logoImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/bahrain/27754/0:0,400:400-300-0-70/019e5",
+    "relativeTeamUrl": "/en/team/TBV/bahrain-victorious",
+    "colorsLogo": [],
+    "colorsJersey": [
+      "#090909",
+      "#c50704",
+      "#f8f8f8"
+    ]
+  },
+  {
+    "code": "bex",
+    "longCode": "team-bikeexchange",
+    "name": "TEAM BIKEEXCHANGE",
+    "jerseyImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/team-bikeexchange-tdf2021-ok-24-juin/28873/0:0,400:400-300-0-70/ecd42",
+    "logoImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/bex/26425/0:0,400:400-300-0-70/cce29",
+    "relativeTeamUrl": "/en/team/BEX/team-bikeexchange",
+    "colorsLogo": [
+      "#ffffff",
+      "#b23846",
+      "#1a1919"
+    ],
+    "colorsJersey": [
+      "#000001",
+      "#f5f5f5",
+      "#4ab09b"
+    ]
+  },
+  {
+    "code": "apt",
+    "longCode": "astana-premier-tech",
+    "name": "ASTANA - PREMIER TECH",
+    "jerseyImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/ast/26355/0:0,400:400-300-0-70/d295d",
+    "logoImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/ast/26434/0:0,400:400-300-0-70/77cff",
+    "relativeTeamUrl": "/en/team/APT/astana-premier-tech",
+    "colorsLogo": [
+      "#ffffff",
+      "#002354",
+      "#5c7290"
+    ],
+    "colorsJersey": [
+      "#3daabd",
+      "#023b5f",
+      "#f6e918"
+    ]
+  },
+  {
+    "code": "tqa",
+    "longCode": "team-qhubeka-nexthash",
+    "name": "TEAM QHUBEKA NEXTHASH",
+    "jerseyImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/team-qhubeka-nexthash-confidentiel-jusqu-au-depart-du-tdf-2021-ok-01/28772/0:0,400:400-300-0-70/d764d",
+    "logoImg": "https://img.aso.fr/core_app/img-cycling-tdf-jpg/team-qhubeka-nexthash/28846/0:0,400:400-300-0-70/dac26",
+    "relativeTeamUrl": "/en/team/TQA/team-qhubeka-nexthash",
+    "colorsLogo": [
+      "#080808",
+      "#ffffff",
+      "#505050"
+    ],
+    "colorsJersey": [
+      "#151414",
+      "#f6f6f6",
+      "#1b3a67"
+    ]
+  },
+  {
+    "code": "ten",
+    "longCode": "totalenergies",
+    "name": "TOTALENERGIES",
+    "jerseyImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/total-energies-2021-ok/28602/0:0,400:400-300-0-70/88665",
+    "logoImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/totalenergies-logo/28601/0:0,400:400-300-0-70/dd2fe",
+    "relativeTeamUrl": "/en/team/TEN/totalenergies",
+    "colorsLogo": [
+      "#ffffff",
+      "#fc0101",
+      "#016efe"
+    ],
+    "colorsJersey": [
+      "#f2f2f2",
+      "#ec0000",
+      "#a0a1a1"
+    ]
+  },
+  {
+    "code": "iwg",
+    "longCode": "intermarche-wanty-gobert-materiaux",
+    "name": "INTERMARCHE - WANTY - GOBERT MATERIAUX",
+    "jerseyImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/iwg/26366/0:0,400:400-300-0-70/cfe38",
+    "logoImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/iwg/26435/0:0,400:400-300-0-70/efa32",
+    "relativeTeamUrl": "/en/team/IWG/intermarche-wanty-gobert-materiaux",
+    "colorsLogo": [
+      "#ffffff",
+      "#021c4c",
+      "#e1ea00"
+    ],
+    "colorsJersey": [
+      "#e9e9e9",
+      "#03144c",
+      "#daf309"
+    ]
+  },
+  {
+    "code": "bbk",
+    "longCode": "b-b-hotels-p-b-ktm",
+    "name": "B&amp;B HOTELS  P/B KTM",
+    "jerseyImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/bbk/26356/0:0,400:400-300-0-70/d9840",
+    "logoImg": "https://img.aso.fr/core_app/img-cycling-tdf-png/bbk/26424/0:0,400:400-300-0-70/46a80",
+    "relativeTeamUrl": "/en/team/BBK/b-b-hotels-p-b-ktm",
+    "colorsLogo": [
+      "#ffffff",
+      "#000000",
+      "#00a090"
+    ],
+    "colorsJersey": [
+      "#05a38c",
+      "#110d16",
+      "#016856"
+    ]
+  }
+]
