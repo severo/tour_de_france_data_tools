@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "riders": "JSON_DIR=./json/ node src/riders.js",
+    "stages": "JSON_DIR=./json/ node src/stages.js",
     "images": "JSON_DIR=./json/ IMAGES_DIR=./images/ node src/images.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

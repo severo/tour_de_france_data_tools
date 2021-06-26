@@ -8,22 +8,7 @@ Parse data from Tour de France 2021.
 npm install
 npm run riders
 npm run images
+npm run stages
 ```
 
-## Get stages data
-
-[work in progress]
-
-Download the data from stage 5:
-
-```bash
-mkdir -p saved_html
-wget https://www.letour.fr/en/rankings/stage-5 -O saved_html/stage5.html
-```
-
-Download the data from stage 1 to stage 8:
-
-```bash
-mkdir -p saved_html
-for i in {1..8}; do wget "https://www.letour.fr/en/rankings/stage-${i}" -O saved_html/stage${i}.html; done
-```
+Note that images of the stage profiles and maps have been downloaded manually from https://www.lequipe.fr/Cyclisme-sur-route/tour-de-france/annee-2021/direct-course/brest-landerneau-live/19521.

@@ -1,0 +1,710 @@
+[
+  {
+    "id": "stage-1",
+    "url": "/en/stage-1",
+    "date": "20210626",
+    "startCity": "Brest",
+    "endCity": "Landerneau",
+    "length": 197.8,
+    "type": "Hilly",
+    "mountains": [
+      {
+        "name": "Côte de Trébéolin",
+        "start": 8.6,
+        "height": 90,
+        "length": 0.9,
+        "percent": 5.1,
+        "category": "4"
+      },
+      {
+        "name": "Côte de Rosnoën",
+        "start": 27.2,
+        "height": 141,
+        "length": 3,
+        "percent": 4,
+        "category": "4"
+      },
+      {
+        "name": "Côte de Locronan",
+        "start": 61.5,
+        "height": 194,
+        "length": 0.9,
+        "percent": 9.3,
+        "category": "3"
+      },
+      {
+        "name": "Côte de Stang Ar Garront",
+        "start": 115,
+        "height": 77,
+        "length": 2,
+        "percent": 3.4,
+        "category": "4"
+      },
+      {
+        "name": "Côte de Saint-Rivoal",
+        "start": 150.7,
+        "height": 263,
+        "length": 2.5,
+        "percent": 3.9,
+        "category": "4"
+      },
+      {
+        "name": "Landerneau Côte de la Fosse aux Loups",
+        "start": 197.8,
+        "height": 176,
+        "length": 3.1,
+        "percent": 5.6,
+        "category": "3"
+      }
+    ]
+  },
+  {
+    "id": "stage-2",
+    "url": "/en/stage-2",
+    "date": "20210627",
+    "startCity": "Perros-Guirec",
+    "endCity": "Mûr-de-Bretagne Guerlédan",
+    "length": 183.5,
+    "type": "Hilly",
+    "mountains": [
+      {
+        "name": "Côte de Sainte-Barbe",
+        "start": 72.8,
+        "height": 76,
+        "length": 0.87,
+        "percent": 6.6,
+        "category": "4"
+      },
+      {
+        "name": "Côte de Pordic",
+        "start": 103.2,
+        "height": 84,
+        "length": 2.3,
+        "percent": 3.3,
+        "category": "4"
+      },
+      {
+        "name": "Côte de Saint-Brieuc",
+        "start": 115.3,
+        "height": 100,
+        "length": 1.1,
+        "percent": 7.9,
+        "category": "4"
+      },
+      {
+        "name": "Côte du village de Mûr-de-Bretagne",
+        "start": 165.2,
+        "height": 182,
+        "length": 1.7,
+        "percent": 4.1,
+        "category": "4"
+      },
+      {
+        "name": "Mûr-de-Bretagne",
+        "start": 168.2,
+        "height": 293,
+        "length": 2,
+        "percent": 6.9,
+        "category": "3"
+      },
+      {
+        "name": "MÛR-DE-BRETAGNE GUERLÉDAN",
+        "start": 183.5,
+        "height": 293,
+        "length": 2,
+        "percent": 6.9,
+        "category": "3"
+      }
+    ]
+  },
+  {
+    "id": "stage-3",
+    "url": "/en/stage-3",
+    "date": "20210628",
+    "startCity": "Lorient",
+    "endCity": "Pontivy",
+    "length": 182.9,
+    "type": "Flat",
+    "mountains": [
+      {
+        "name": "Côte de Cadoudal",
+        "start": 91.1,
+        "height": 157,
+        "length": 1.8,
+        "percent": 6.3,
+        "category": "4"
+      },
+      {
+        "name": "Côte de Pluméliau",
+        "start": 148.6,
+        "height": 122,
+        "length": 2.2,
+        "percent": 3.1,
+        "category": "4"
+      }
+    ]
+  },
+  {
+    "id": "stage-4",
+    "url": "/en/stage-4",
+    "date": "20210629",
+    "startCity": "Redon",
+    "endCity": "Fougères",
+    "length": 150.4,
+    "type": "Flat",
+    "mountains": []
+  },
+  {
+    "id": "stage-5",
+    "url": "/en/stage-5",
+    "date": "20210630",
+    "startCity": "Changé",
+    "endCity": "Laval Espace Mayenne",
+    "length": 27.2,
+    "type": "Individual time-trial",
+    "mountains": []
+  },
+  {
+    "id": "stage-6",
+    "url": "/en/stage-6",
+    "date": "20210701",
+    "startCity": "Tours",
+    "endCity": "Châteauroux",
+    "length": 160.6,
+    "type": "Flat",
+    "mountains": [
+      {
+        "name": "Côte de Saint-Aignan",
+        "start": 72.6,
+        "height": 134,
+        "length": 2.2,
+        "percent": 2.9,
+        "category": "4"
+      }
+    ]
+  },
+  {
+    "id": "stage-7",
+    "url": "/en/stage-7",
+    "date": "20210702",
+    "startCity": "Vierzon",
+    "endCity": "Le Creusot",
+    "length": 249.1,
+    "type": "Hilly",
+    "mountains": [
+      {
+        "name": "Côte de Château-Chinon",
+        "start": 161.5,
+        "height": 534,
+        "length": 3.2,
+        "percent": 5.3,
+        "category": "3"
+      },
+      {
+        "name": "Côte de Glux-en-Glenne",
+        "start": 178.2,
+        "height": 739,
+        "length": 2.6,
+        "percent": 4.2,
+        "category": "4"
+      },
+      {
+        "name": "Côte de la Croix de la Libération",
+        "start": 213.8,
+        "height": 577,
+        "length": 4.7,
+        "percent": 5.3,
+        "category": "3"
+      },
+      {
+        "name": "Signal d'Uchon",
+        "start": 231,
+        "height": 635,
+        "length": 5.8,
+        "percent": 5.6,
+        "category": "2"
+      },
+      {
+        "name": "Côte de la Gourloye",
+        "start": 241.2,
+        "height": 468,
+        "length": 2.5,
+        "percent": 5.3,
+        "category": "4"
+      }
+    ]
+  },
+  {
+    "id": "stage-8",
+    "url": "/en/stage-8",
+    "date": "20210703",
+    "startCity": "Oyonnax",
+    "endCity": "Le Grand-Bornand",
+    "length": 150.8,
+    "type": "Mountain",
+    "mountains": [
+      {
+        "name": "Côte de Copponex",
+        "start": 61.9,
+        "height": 731,
+        "length": 6.5,
+        "percent": 4.4,
+        "category": "3"
+      },
+      {
+        "name": "Côte de Menthonnex-en-Bornes",
+        "start": 72.5,
+        "height": 810,
+        "length": 2.8,
+        "percent": 4.9,
+        "category": "4"
+      },
+      {
+        "name": "Côte de Mont-Saxonnex",
+        "start": 104,
+        "height": 960,
+        "length": 5.7,
+        "percent": 8.3,
+        "category": "1"
+      },
+      {
+        "name": "Col de Romme",
+        "start": 122.1,
+        "height": 1297,
+        "length": 8.7,
+        "percent": 9.4,
+        "category": "1"
+      },
+      {
+        "name": "Col de la Colombière",
+        "start": 136.1,
+        "height": 1618,
+        "length": 7.3,
+        "percent": 8.7,
+        "category": "1"
+      }
+    ]
+  },
+  {
+    "id": "stage-9",
+    "url": "/en/stage-9",
+    "date": "20210704",
+    "startCity": "Cluses",
+    "endCity": "Tignes",
+    "length": 144.9,
+    "type": "Mountain",
+    "mountains": [
+      {
+        "name": "Côte de Domancy",
+        "start": 19.6,
+        "height": 810,
+        "length": 2.5,
+        "percent": 9.7,
+        "category": "2"
+      },
+      {
+        "name": "Col des Saisies",
+        "start": 49.4,
+        "height": 1650,
+        "length": 9.5,
+        "percent": 6.2,
+        "category": "1"
+      },
+      {
+        "name": "Col du Pré",
+        "start": 80.9,
+        "height": 1748,
+        "length": 13.1,
+        "percent": 7.4,
+        "category": "H"
+      },
+      {
+        "name": "Cormet de Roselend",
+        "start": 93.3,
+        "height": 1968,
+        "length": 5.8,
+        "percent": 6.3,
+        "category": "2"
+      },
+      {
+        "name": "Montée de Tignes",
+        "start": 143,
+        "height": 2089,
+        "length": 21.1,
+        "percent": 5.6,
+        "category": "1"
+      }
+    ]
+  },
+  {
+    "id": "stage-10",
+    "url": "/en/stage-10",
+    "date": "20210706",
+    "startCity": "Albertville",
+    "endCity": "Valence",
+    "length": 190.7,
+    "type": "Flat",
+    "mountains": [
+      {
+        "name": "Col de Couz",
+        "start": 58.5,
+        "height": 622,
+        "length": 7.5,
+        "percent": 2.8,
+        "category": "4"
+      }
+    ]
+  },
+  {
+    "id": "stage-11",
+    "url": "/en/stage-11",
+    "date": "20210707",
+    "startCity": "Sorgues",
+    "endCity": "Malaucène",
+    "length": 198.9,
+    "type": "Mountain",
+    "mountains": [
+      {
+        "name": "Côte de Fontaine-de-Vaucluse",
+        "start": 32.1,
+        "height": 197,
+        "length": 1.9,
+        "percent": 6,
+        "category": "4"
+      },
+      {
+        "name": "Côte de Gordes",
+        "start": 43.7,
+        "height": 344,
+        "length": 2.6,
+        "percent": 5.1,
+        "category": "4"
+      },
+      {
+        "name": "Col de la Liguière",
+        "start": 83.6,
+        "height": 998,
+        "length": 9.3,
+        "percent": 6.7,
+        "category": "1"
+      },
+      {
+        "name": "Mont Ventoux",
+        "start": 122.5,
+        "height": 1910,
+        "length": 22.1,
+        "percent": 5,
+        "category": "1"
+      },
+      {
+        "name": "Mont Ventoux",
+        "start": 176.9,
+        "height": 1910,
+        "length": 15.6,
+        "percent": 8.7,
+        "category": "H"
+      }
+    ]
+  },
+  {
+    "id": "stage-12",
+    "url": "/en/stage-12",
+    "date": "20210708",
+    "startCity": "Saint-Paul-Trois-Châteaux",
+    "endCity": "Nîmes",
+    "length": 159.4,
+    "type": "Flat",
+    "mountains": [
+      {
+        "name": "Côte du belvédère de Tharaux",
+        "start": 83.7,
+        "height": 329,
+        "length": 4.4,
+        "percent": 4.6,
+        "category": "3"
+      }
+    ]
+  },
+  {
+    "id": "stage-13",
+    "url": "/en/stage-13",
+    "date": "20210709",
+    "startCity": "Nîmes",
+    "endCity": "Carcassonne",
+    "length": 219.9,
+    "type": "Flat",
+    "mountains": [
+      {
+        "name": "Côte du Pic Saint-Loup",
+        "start": 51.5,
+        "height": 303,
+        "length": 5.6,
+        "percent": 3.6,
+        "category": "4"
+      }
+    ]
+  },
+  {
+    "id": "stage-14",
+    "url": "/en/stage-14",
+    "date": "20210710",
+    "startCity": "Carcassonne",
+    "endCity": "Quillan",
+    "length": 183.7,
+    "type": "Hilly",
+    "mountains": [
+      {
+        "name": "Col du Bac",
+        "start": 50.9,
+        "height": 622,
+        "length": 3.1,
+        "percent": 5.3,
+        "category": "3"
+      },
+      {
+        "name": "Col de Montségur",
+        "start": 89,
+        "height": 1059,
+        "length": 4.3,
+        "percent": 8.7,
+        "category": "2"
+      },
+      {
+        "name": "Col de la Croix des Morts",
+        "start": 110.3,
+        "height": 898,
+        "length": 6.8,
+        "percent": 5.7,
+        "category": "2"
+      },
+      {
+        "name": "Côte de Galinagues",
+        "start": 126.3,
+        "height": 948,
+        "length": 2.2,
+        "percent": 9,
+        "category": "3"
+      },
+      {
+        "name": "Col de Saint-Louis",
+        "start": 166.8,
+        "height": 706,
+        "length": 4.7,
+        "percent": 7.4,
+        "category": "2"
+      }
+    ]
+  },
+  {
+    "id": "stage-15",
+    "url": "/en/stage-15",
+    "date": "20210711",
+    "startCity": "Céret",
+    "endCity": "Andorre-la-Vieille",
+    "length": 191.3,
+    "type": "Mountain",
+    "mountains": [
+      {
+        "name": "Montée de Mont-Louis",
+        "start": 86.3,
+        "height": 1560,
+        "length": 8.5,
+        "percent": 5.7,
+        "category": "1"
+      },
+      {
+        "name": "Col de Puymorens",
+        "start": 133.1,
+        "height": 1915,
+        "length": 5.8,
+        "percent": 4.7,
+        "category": "2"
+      },
+      {
+        "name": "Port d'Envalira",
+        "start": 146.7,
+        "height": 2408,
+        "length": 10.7,
+        "percent": 5.9,
+        "category": "1"
+      },
+      {
+        "name": "Col de Beixalis",
+        "start": 176.5,
+        "height": 1796,
+        "length": 6.4,
+        "percent": 8.5,
+        "category": "1"
+      }
+    ]
+  },
+  {
+    "id": "stage-16",
+    "url": "/en/stage-16",
+    "date": "20210713",
+    "startCity": "Pas de la Case",
+    "endCity": "Saint-Gaudens",
+    "length": 169,
+    "type": "Hilly",
+    "mountains": [
+      {
+        "name": "Col de Port",
+        "start": 54,
+        "height": 1249,
+        "length": 11.4,
+        "percent": 5.1,
+        "category": "2"
+      },
+      {
+        "name": "Col de la Core",
+        "start": 101.1,
+        "height": 1395,
+        "length": 13.1,
+        "percent": 6.6,
+        "category": "1"
+      },
+      {
+        "name": "Col de Portet-d'Aspet",
+        "start": 136.5,
+        "height": 1069,
+        "length": 5.4,
+        "percent": 6.9,
+        "category": "2"
+      },
+      {
+        "name": "Côte d'Aspret-Sarrat",
+        "start": 162,
+        "height": 478,
+        "length": 0.85,
+        "percent": 8.4,
+        "category": "4"
+      }
+    ]
+  },
+  {
+    "id": "stage-17",
+    "url": "/en/stage-17",
+    "date": "20210714",
+    "startCity": "Muret",
+    "endCity": "Saint-Lary-Soulan Col du Portet",
+    "length": 178.4,
+    "type": "Mountain",
+    "mountains": [
+      {
+        "name": "Col de Peyresourde",
+        "start": 129.1,
+        "height": 1569,
+        "length": 13.2,
+        "percent": 7,
+        "category": "1"
+      },
+      {
+        "name": "Col de Val Louron-Azet",
+        "start": 149.5,
+        "height": 1580,
+        "length": 7.4,
+        "percent": 8.3,
+        "category": "1"
+      },
+      {
+        "name": "Saint-Lary-Soulan Col du Portet",
+        "start": 178.4,
+        "height": 2215,
+        "length": 16.1,
+        "percent": 8.6,
+        "category": "H"
+      }
+    ]
+  },
+  {
+    "id": "stage-18",
+    "url": "/en/stage-18",
+    "date": "20210715",
+    "startCity": "Pau",
+    "endCity": "Luz Ardiden",
+    "length": 129.7,
+    "type": "Mountain",
+    "mountains": [
+      {
+        "name": "Côte de Notre-Dame de Piétat",
+        "start": 10.6,
+        "height": 370,
+        "length": 2.6,
+        "percent": 5.6,
+        "category": "4"
+      },
+      {
+        "name": "Côte de Loucrup",
+        "start": 54.6,
+        "height": 528,
+        "length": 2,
+        "percent": 7,
+        "category": "4"
+      },
+      {
+        "name": "Col du Tourmalet",
+        "start": 94.1,
+        "height": 2115,
+        "length": 17.1,
+        "percent": 7.3,
+        "category": "H"
+      },
+      {
+        "name": "Luz Ardiden",
+        "start": 129.7,
+        "height": 1715,
+        "length": 13.3,
+        "percent": 7.4,
+        "category": "H"
+      }
+    ]
+  },
+  {
+    "id": "stage-19",
+    "url": "/en/stage-19",
+    "date": "20210716",
+    "startCity": "Mourenx",
+    "endCity": "Libourne",
+    "length": 207,
+    "type": "Flat",
+    "mountains": [
+      {
+        "name": "Côte de Bareille",
+        "start": 12.1,
+        "height": 207,
+        "length": 1.9,
+        "percent": 5.3,
+        "category": "4"
+      }
+    ]
+  },
+  {
+    "id": "stage-20",
+    "url": "/en/stage-20",
+    "date": "20210717",
+    "startCity": "Libourne",
+    "endCity": "Saint-Emilion",
+    "length": 30.8,
+    "type": "Individual time-trial",
+    "mountains": []
+  },
+  {
+    "id": "stage-21",
+    "url": "/en/stage-21",
+    "date": "20210718",
+    "startCity": "Chatou",
+    "endCity": "Paris Champs-Élysées",
+    "length": 108.4,
+    "type": "Flat",
+    "mountains": [
+      {
+        "name": "Côte des Grès",
+        "start": 7.4,
+        "height": 160,
+        "length": 1.9,
+        "percent": 5.2,
+        "category": "4"
+      }
+    ]
+  }
+]
